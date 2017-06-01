@@ -1,1 +1,3 @@
 # pdfToTextWithBinary
+
+With binary
