@@ -1,0 +1,20 @@
+{
+    "name": "dpardoata/pdf-to-text-with-binary",
+    "description": "Convert pdf to text and include binary file",
+    "keywords": ["pdftotext", "binary", "package"],
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Daniel Pardo",
+            "email": "dpardoata@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require-dev": {
+		"phpunit/phpunit": "5.2.*",
+		"wrseward/pdf-parser": "^0.1.0"
+    },
+    "bin": [
+        "pdftotext"
+    ]
+}
