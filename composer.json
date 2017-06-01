@@ -11,7 +11,7 @@
             "email": "dpardoata@gmail.com"
         }
     ],
-    "require-dev": {
+    "require": {
 		"wrseward/pdf-parser": "^0.1.0"
     },
     "bin": [
