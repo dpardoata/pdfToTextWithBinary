@@ -2,7 +2,7 @@
     "name": "dpardoata/pdf-to-text-with-binary",
     "description": "Convert pdf to text and include binary file",
     "homepage": "https://github.com/dpardoata/pdfToTextWithBinary",
-    "keywords": ["pdftotext", "binary", "package"],
+    "keywords": ["pdftotext", "binary", "package", "library"],
     "license": "MIT",
     "type": "library",
     "authors": [
